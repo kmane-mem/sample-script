@@ -1,4 +1,4 @@
 #sl
-echo 'Hello runSh'
+echo 'Hello runShtrigger'
 #sleep 2m
 echo 'slept well'
