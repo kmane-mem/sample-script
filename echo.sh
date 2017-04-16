@@ -1,4 +1,4 @@
 #sl
 echo 'Hello runShtrigger'
 #sleep 2m
-echo 'slept welll'
+echo 'from v1.1commit'
