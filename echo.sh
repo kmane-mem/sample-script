@@ -1,4 +1,4 @@
 #sl
 echo 'Hello runShtrigger'
 #sleep 2m
-echo 'slept welll'
+echo 'from t1.3 commit to t2.pr!'
